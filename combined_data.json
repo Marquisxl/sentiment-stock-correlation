@@ -1,0 +1,740 @@
+[
+    {
+        "date": "2024-08-02",
+        "title": "You Won\u2019t Believe What Car Headlights Have in Store",
+        "sentiment": 0.02878787878787879,
+        "open": 219.15,
+        "high": 225.6,
+        "low": 217.71,
+        "close": 219.86
+    },
+    {
+        "date": "2024-08-27",
+        "title": "A Look Inside the Airbus Factory Revolutionizing the World of Airplanes",
+        "sentiment": 0.0,
+        "open": 225.995,
+        "high": 228.85,
+        "low": 224.89,
+        "close": 228.03
+    },
+    {
+        "date": "2024-08-14",
+        "title": "NASA\u2019s Quantum Cold Atom Lab Just Made Space Even Cooler\u2014Literally",
+        "sentiment": -0.15,
+        "open": 220.57,
+        "high": 223.03,
+        "low": 219.7,
+        "close": 221.72
+    },
+    {
+        "date": "2024-08-28",
+        "title": "Hyundai\u2019s next EV will be the three-row Ioniq 9 \u2014 and it\u2019s headed for the US",
+        "sentiment": 0.06818181818181818,
+        "open": 227.92,
+        "high": 229.86,
+        "low": 225.68,
+        "close": 226.49
+    },
+    {
+        "date": "2024-08-20",
+        "title": "Hydrogen cars flopped, but\u00a0fuel cells are finding new life in trucks and boats",
+        "sentiment": 0.0,
+        "open": 225.77,
+        "high": 227.17,
+        "low": 225.45,
+        "close": 226.51
+    },
+    {
+        "date": "2024-08-26",
+        "title": "A Groundbreaking Search for Alien Technology in Distant Galaxies Has Begun",
+        "sentiment": -0.06666666666666667,
+        "open": 226.76,
+        "high": 227.28,
+        "low": 223.8905,
+        "close": 227.18
+    },
+    {
+        "date": "2024-08-01",
+        "title": "America\u2019s Cyber Security Agency Picks Its First Head of AI",
+        "sentiment": 0.13636363636363635,
+        "open": 224.37,
+        "high": 224.48,
+        "low": 217.02,
+        "close": 218.36
+    },
+    {
+        "date": "2024-08-20",
+        "title": "NVIDIA's ACE virtual human tech is making its way into an actual game",
+        "sentiment": -0.06666666666666665,
+        "open": 225.77,
+        "high": 227.17,
+        "low": 225.45,
+        "close": 226.51
+    },
+    {
+        "date": "2024-08-22",
+        "title": "\u2018I Don\u2019t Want to Use It, I Want to Be It\u2019: This Artist Is on a Quest to Become One With AI",
+        "sentiment": 0.225,
+        "open": 227.79,
+        "high": 228.34,
+        "low": 223.9,
+        "close": 224.53
+    },
+    {
+        "date": "2024-08-07",
+        "title": "First gene-editing therapy may cure blood disorder",
+        "sentiment": 0.0,
+        "open": 206.9,
+        "high": 213.64,
+        "low": 206.39,
+        "close": 209.82
+    },
+    {
+        "date": "2024-08-09",
+        "title": "Oxford scientists' new light-absorbing material can turn everyday objects into solar panels",
+        "sentiment": 1.0,
+        "open": 212.1,
+        "high": 216.78,
+        "low": 211.97,
+        "close": 216.24
+    },
+    {
+        "date": "2024-07-31",
+        "title": "Apple Releases Safari Technology Preview 200 With Bug Fixes and Performance Improvements",
+        "sentiment": 0.12159090909090908,
+        "open": 221.44,
+        "high": 223.82,
+        "low": 220.63,
+        "close": 222.08
+    },
+    {
+        "date": "2024-08-09",
+        "title": "Digital-twin technology could be an archaeologist's most powerful tool",
+        "sentiment": 0.16666666666666666,
+        "open": 212.1,
+        "high": 216.78,
+        "low": 211.97,
+        "close": 216.24
+    },
+    {
+        "date": "2024-08-22",
+        "title": "Mike Lynch, \u2018Britain\u2019s Bill Gates,\u2019 Confirmed Dead in Superyacht Wreck",
+        "sentiment": 0.0,
+        "open": 227.79,
+        "high": 228.34,
+        "low": 223.9,
+        "close": 224.53
+    },
+    {
+        "date": "2024-08-15",
+        "title": "California state IDs can now be stored in Apple Wallet and Google Wallet",
+        "sentiment": 0.5,
+        "open": 224.6,
+        "high": 225.35,
+        "low": 222.76,
+        "close": 224.72
+    },
+    {
+        "date": "2024-08-30",
+        "title": "Samsung\u2019s Labor Day Sale: Record-Low Prices Signal a Stock Clearance on TVs",
+        "sentiment": 0.25,
+        "open": 230.19,
+        "high": 230.4,
+        "low": 227.48,
+        "close": 229.0
+    },
+    {
+        "date": "2024-08-01",
+        "title": "Taco Bell Is Deploying AI to Screw Up Your Crunchwrap Supreme",
+        "sentiment": 0.0,
+        "open": 224.37,
+        "high": 224.48,
+        "low": 217.02,
+        "close": 218.36
+    },
+    {
+        "date": "2024-08-16",
+        "title": "U.S. presses the \u2018reset button' on technology that lets cars talk to each other",
+        "sentiment": 0.028787878787878782,
+        "open": 223.92,
+        "high": 226.8271,
+        "low": 223.6501,
+        "close": 226.05
+    },
+    {
+        "date": "2024-08-08",
+        "title": "TikTok adds in-app hubs for videos about movies and TV shows",
+        "sentiment": 0.2502164502164502,
+        "open": 213.11,
+        "high": 214.2,
+        "low": 208.83,
+        "close": 213.31
+    },
+    {
+        "date": "2024-08-06",
+        "title": "How EdTech Firm Coursera Is Incorporating GenAI into Its Products and Services",
+        "sentiment": 0.0,
+        "open": 205.3,
+        "high": 209.99,
+        "low": 201.07,
+        "close": 207.23
+    },
+    {
+        "date": "2024-08-15",
+        "title": "Does the Google Pixel 9 series support Qi2 wireless charging?",
+        "sentiment": 0.5,
+        "open": 224.6,
+        "high": 225.35,
+        "low": 222.76,
+        "close": 224.72
+    },
+    {
+        "date": "2024-08-20",
+        "title": "Retro Computing: Old Tech, New Thrill",
+        "sentiment": 0.24454545454545454,
+        "open": 225.77,
+        "high": 227.17,
+        "low": 225.45,
+        "close": 226.51
+    },
+    {
+        "date": "2024-08-19",
+        "title": "Apheros helps data centers cool down. Check out the pitch deck it used to secure $1.85 million.",
+        "sentiment": 0.06481481481481481,
+        "open": 225.72,
+        "high": 225.99,
+        "low": 223.04,
+        "close": 225.89
+    },
+    {
+        "date": "2024-08-29",
+        "title": "Putin and Kim Jong Un's new alliance is proving to be a win-win",
+        "sentiment": 0.2,
+        "open": 230.1,
+        "high": 232.92,
+        "low": 228.88,
+        "close": 229.79
+    },
+    {
+        "date": "2024-08-21",
+        "title": "Can AI Deliver Fully Automated Factories?",
+        "sentiment": 0.13333333333333333,
+        "open": 226.52,
+        "high": 227.98,
+        "low": 225.05,
+        "close": 226.4
+    },
+    {
+        "date": "2024-08-01",
+        "title": "To Lead in AI, the US Needs a Silicon Revolution",
+        "sentiment": 0.13636363636363635,
+        "open": 224.37,
+        "high": 224.48,
+        "low": 217.02,
+        "close": 218.36
+    },
+    {
+        "date": "2024-07-31",
+        "title": "iPad Pro's Tandem OLED Display Tech Could Extend to Future Vision Pro",
+        "sentiment": 0.0,
+        "open": 221.44,
+        "high": 223.82,
+        "low": 220.63,
+        "close": 222.08
+    },
+    {
+        "date": "2024-07-31",
+        "title": "A school used facial recognition tech for cafeteria payments. An internet law expert says it's rarely worth the risk.",
+        "sentiment": 0.0,
+        "open": 221.44,
+        "high": 223.82,
+        "low": 220.63,
+        "close": 222.08
+    },
+    {
+        "date": "2024-08-06",
+        "title": "I work at Microsoft and didn't realize how evil tech can be until I had kids. Here's how I limit their screen use to 1 hour a day.",
+        "sentiment": 0.0,
+        "open": 205.3,
+        "high": 209.99,
+        "low": 201.07,
+        "close": 207.23
+    },
+    {
+        "date": "2024-08-15",
+        "title": "AI can enhance human expertise and worker well-being, Clear Capital's EVP of strategy and growth says",
+        "sentiment": 0.3666666666666667,
+        "open": 224.6,
+        "high": 225.35,
+        "low": 222.76,
+        "close": 224.72
+    },
+    {
+        "date": "2024-08-20",
+        "title": "This 1mm 'fan on a chip' could put active cooling inside ultra-thin gadgets",
+        "sentiment": 0.005681818181818177,
+        "open": 225.77,
+        "high": 227.17,
+        "low": 225.45,
+        "close": 226.51
+    },
+    {
+        "date": "2024-08-06",
+        "title": "AI was supposed to revolutionize customer service. Morgan Stanley's interns aren't buying it.",
+        "sentiment": 0.0,
+        "open": 205.3,
+        "high": 209.99,
+        "low": 201.07,
+        "close": 207.23
+    },
+    {
+        "date": "2024-08-01",
+        "title": "Tesla's biggest competitor just announced a collab with Uber",
+        "sentiment": 0.0,
+        "open": 224.37,
+        "high": 224.48,
+        "low": 217.02,
+        "close": 218.36
+    },
+    {
+        "date": "2024-08-12",
+        "title": "An M&A expert says creator-economy companies need to look beyond influencers to grow",
+        "sentiment": 0.0,
+        "open": 216.07,
+        "high": 219.5099,
+        "low": 215.6,
+        "close": 217.53
+    },
+    {
+        "date": "2024-08-14",
+        "title": "GitHub is down",
+        "sentiment": -0.0125,
+        "open": 220.57,
+        "high": 223.03,
+        "low": 219.7,
+        "close": 221.72
+    },
+    {
+        "date": "2024-08-29",
+        "title": "Will It Ever Be Possible to Share Dreams?",
+        "sentiment": 0.0,
+        "open": 230.1,
+        "high": 232.92,
+        "low": 228.88,
+        "close": 229.79
+    },
+    {
+        "date": "2024-08-19",
+        "title": "Apheros says it can boost data center cooling by 90% with metal foam",
+        "sentiment": -0.1851851851851852,
+        "open": 225.72,
+        "high": 225.99,
+        "low": 223.04,
+        "close": 225.89
+    },
+    {
+        "date": "2024-08-16",
+        "title": "Jouffre Atelier\u2019s L\u2019\u00e8cho Showcase Is a Designer\u2019s Playground",
+        "sentiment": 0.25,
+        "open": 223.92,
+        "high": 226.8271,
+        "low": 223.6501,
+        "close": 226.05
+    },
+    {
+        "date": "2024-08-26",
+        "title": "The Denon Home Amp Brings High-End Wireless Audio to Your Speakers",
+        "sentiment": 0.13636363636363635,
+        "open": 226.76,
+        "high": 227.28,
+        "low": 223.8905,
+        "close": 227.18
+    },
+    {
+        "date": "2024-08-26",
+        "title": "She was struck by a car during the holidays in 1989. DNA just helped find the driver",
+        "sentiment": 0.0,
+        "open": 226.76,
+        "high": 227.28,
+        "low": 223.8905,
+        "close": 227.18
+    },
+    {
+        "date": "2024-08-16",
+        "title": "A New Algae-Based Gel Treats Bullet Wounds in Seconds",
+        "sentiment": 0.0,
+        "open": 223.92,
+        "high": 226.8271,
+        "low": 223.6501,
+        "close": 226.05
+    },
+    {
+        "date": "2024-08-08",
+        "title": "How One Major Healthcare Firm Became the Leader in Innovative AI Use",
+        "sentiment": 0.05555555555555555,
+        "open": 213.11,
+        "high": 214.2,
+        "low": 208.83,
+        "close": 213.31
+    },
+    {
+        "date": "2024-08-07",
+        "title": "Balatro is getting a free \u2018major gameplay update\u2019 in 2025",
+        "sentiment": 0.4875,
+        "open": 206.9,
+        "high": 213.64,
+        "low": 206.39,
+        "close": 209.82
+    },
+    {
+        "date": "2024-08-08",
+        "title": "Turkey blocks Roblox",
+        "sentiment": 0.0,
+        "open": 213.11,
+        "high": 214.2,
+        "low": 208.83,
+        "close": 213.31
+    },
+    {
+        "date": "2024-08-26",
+        "title": "Ikea is testing a secondhand marketplace, but only in two countries",
+        "sentiment": 0.0,
+        "open": 226.76,
+        "high": 227.28,
+        "low": 223.8905,
+        "close": 227.18
+    },
+    {
+        "date": "2024-08-27",
+        "title": "Instagram adds what photos have always needed: words",
+        "sentiment": 0.2857142857142857,
+        "open": 225.995,
+        "high": 228.85,
+        "low": 224.89,
+        "close": 228.03
+    },
+    {
+        "date": "2024-08-22",
+        "title": "Instagram is adding a Myspace-like \u2018song on profile\u2019 feature",
+        "sentiment": 0.12424242424242422,
+        "open": 227.79,
+        "high": 228.34,
+        "low": 223.9,
+        "close": 224.53
+    },
+    {
+        "date": "2024-08-22",
+        "title": "Uber teams up with Cruise to deliver more autonomous rides next year",
+        "sentiment": 0.0,
+        "open": 227.79,
+        "high": 228.34,
+        "low": 223.9,
+        "close": 224.53
+    },
+    {
+        "date": "2024-08-15",
+        "title": "Do you know where your data comes from? Apache Airflow does and it\u2019s getting updated to advance data orchestration",
+        "sentiment": 0.21212121212121213,
+        "open": 224.6,
+        "high": 225.35,
+        "low": 222.76,
+        "close": 224.72
+    },
+    {
+        "date": "2024-08-09",
+        "title": "Bootstrap post-collapse OOP technology (Part 1)",
+        "sentiment": -0.07142857142857142,
+        "open": 212.1,
+        "high": 216.78,
+        "low": 211.97,
+        "close": 216.24
+    },
+    {
+        "date": "2024-08-23",
+        "title": "Detecting diamonds with X-ray technology(2014)",
+        "sentiment": 0.04545454545454545,
+        "open": 225.6589,
+        "high": 228.22,
+        "low": 224.33,
+        "close": 226.84
+    },
+    {
+        "date": "2024-08-08",
+        "title": "ChargePoint's new adapter claims to work with all EVs, regardless of make or model",
+        "sentiment": 0.13636363636363635,
+        "open": 213.11,
+        "high": 214.2,
+        "low": 208.83,
+        "close": 213.31
+    },
+    {
+        "date": "2024-08-14",
+        "title": "Want to Win a Bike Race? Hack Your Rival\u2019s Wireless Shifters",
+        "sentiment": 0.06818181818181818,
+        "open": 220.57,
+        "high": 223.03,
+        "low": 219.7,
+        "close": 221.72
+    },
+    {
+        "date": "2024-08-20",
+        "title": "Australia Didn\u2019t Invent WiFi, Despite What You\u2019ve Heard",
+        "sentiment": 0.30000000000000004,
+        "open": 225.77,
+        "high": 227.17,
+        "low": 225.45,
+        "close": 226.51
+    },
+    {
+        "date": "2024-08-22",
+        "title": "The First Mass Produced DRAM of the Soviet Union",
+        "sentiment": 0.03666666666666667,
+        "open": 227.79,
+        "high": 228.34,
+        "low": 223.9,
+        "close": 224.53
+    },
+    {
+        "date": "2024-08-22",
+        "title": "Second Human Neuralink Brain Implant Recipient Uses It For CAD and Videogaming",
+        "sentiment": 0.13,
+        "open": 227.79,
+        "high": 228.34,
+        "low": 223.9,
+        "close": 224.53
+    },
+    {
+        "date": "2024-08-26",
+        "title": "Drivers Hate The Tech In Their Cars",
+        "sentiment": 0.13333333333333333,
+        "open": 226.76,
+        "high": 227.28,
+        "low": 223.8905,
+        "close": 227.18
+    },
+    {
+        "date": "2024-08-19",
+        "title": "iPad Illustration App Procreate Condemns Generative AI",
+        "sentiment": 0.3333333333333333,
+        "open": 225.72,
+        "high": 225.99,
+        "low": 223.04,
+        "close": 225.89
+    },
+    {
+        "date": "2024-08-06",
+        "title": "Microsoft lashes out at Delta: Your ancient tech caused the service meltdown",
+        "sentiment": 0.05,
+        "open": 205.3,
+        "high": 209.99,
+        "low": 201.07,
+        "close": 207.23
+    },
+    {
+        "date": "2024-08-30",
+        "title": "MyPillow Mogul Mike Lindell Says He\u2019s Taking His Social Media Company Public",
+        "sentiment": 0.26666666666666666,
+        "open": 230.19,
+        "high": 230.4,
+        "low": 227.48,
+        "close": 229.0
+    },
+    {
+        "date": "2024-08-22",
+        "title": "Trump Says He\u2019s Afraid of AI After Sharing AI-Images of a Fake Taylor Swift Endorsement",
+        "sentiment": 0.0,
+        "open": 227.79,
+        "high": 228.34,
+        "low": 223.9,
+        "close": 224.53
+    },
+    {
+        "date": "2024-08-23",
+        "title": "Uber to Launch Robotaxi Service With GM\u2019s Cruise in 2025",
+        "sentiment": 0.06666666666666667,
+        "open": 225.6589,
+        "high": 228.22,
+        "low": 224.33,
+        "close": 226.84
+    },
+    {
+        "date": "2024-08-30",
+        "title": "Labor Day Sales: Huge Discount on the Roborock Qrevo Pro, Say Goodbye to Housework Forever",
+        "sentiment": 0.6791666666666667,
+        "open": 230.19,
+        "high": 230.4,
+        "low": 227.48,
+        "close": 229.0
+    },
+    {
+        "date": "2024-08-27",
+        "title": "LG May Soon Bring Us a \u2018Dream\u2019 Screen That Outshines OLED",
+        "sentiment": 0.25,
+        "open": 225.995,
+        "high": 228.85,
+        "low": 224.89,
+        "close": 228.03
+    },
+    {
+        "date": "2024-07-31",
+        "title": "Qualcomm promises Snapdragon X PCs will cost as little as $700 next year",
+        "sentiment": -0.05555555555555555,
+        "open": 221.44,
+        "high": 223.82,
+        "low": 220.63,
+        "close": 222.08
+    },
+    {
+        "date": "2024-08-16",
+        "title": "Fortnite\u2019s next Marvel season features a whole lot of Doctor Doom",
+        "sentiment": 0.15000000000000002,
+        "open": 223.92,
+        "high": 226.8271,
+        "low": 223.6501,
+        "close": 226.05
+    },
+    {
+        "date": "2024-08-13",
+        "title": "Flipboard is going to let you follow fediverse accounts right inside the app",
+        "sentiment": 0.0,
+        "open": 219.01,
+        "high": 221.89,
+        "low": 219.01,
+        "close": 221.27
+    },
+    {
+        "date": "2024-08-07",
+        "title": "Fortnite will bring battle pass rewards back around",
+        "sentiment": -0.011111111111111117,
+        "open": 206.9,
+        "high": 213.64,
+        "low": 206.39,
+        "close": 209.82
+    },
+    {
+        "date": "2024-08-30",
+        "title": "TikTok is adding new ways to fine tune your For You page algorithm",
+        "sentiment": 0.21266233766233766,
+        "open": 230.19,
+        "high": 230.4,
+        "low": 227.48,
+        "close": 229.0
+    },
+    {
+        "date": "2024-08-20",
+        "title": "Sonos CEO says the old app can\u2019t be re-released",
+        "sentiment": 0.009090909090909094,
+        "open": 225.77,
+        "high": 227.17,
+        "low": 225.45,
+        "close": 226.51
+    },
+    {
+        "date": "2024-08-30",
+        "title": "AnandTech shuts down after 27 years",
+        "sentiment": -0.15555555555555556,
+        "open": 230.19,
+        "high": 230.4,
+        "low": 227.48,
+        "close": 229.0
+    },
+    {
+        "date": "2024-08-27",
+        "title": "Hardware Reuse: The PMG001 Integrated Power Management Module",
+        "sentiment": 0.065,
+        "open": 225.995,
+        "high": 228.85,
+        "low": 224.89,
+        "close": 228.03
+    },
+    {
+        "date": "2024-08-28",
+        "title": "Proper Mag Lev Controller Makes Snail Lamp Much Cooler",
+        "sentiment": 0.4,
+        "open": 227.92,
+        "high": 229.86,
+        "low": 225.68,
+        "close": 226.49
+    },
+    {
+        "date": "2024-08-19",
+        "title": "Patrick McKenzie (patio11) podcast on technology, finance, and systems thinking",
+        "sentiment": 0.0,
+        "open": 225.72,
+        "high": 225.99,
+        "low": 223.04,
+        "close": 225.89
+    },
+    {
+        "date": "2024-08-20",
+        "title": "How to end malaria once and for all | Abdoulaye Diabat\u00e9",
+        "sentiment": 0.03333333333333333,
+        "open": 225.77,
+        "high": 227.17,
+        "low": 225.45,
+        "close": 226.51
+    },
+    {
+        "date": "2024-08-07",
+        "title": "Gear Acquisition Syndrome \u2013 Consumption of Instruments and Technology (2021)",
+        "sentiment": 0.0,
+        "open": 206.9,
+        "high": 213.64,
+        "low": 206.39,
+        "close": 209.82
+    },
+    {
+        "date": "2024-08-23",
+        "title": "Meta Cancels High-End Mixed-Reality Headset",
+        "sentiment": 0.0,
+        "open": 225.6589,
+        "high": 228.22,
+        "low": 224.33,
+        "close": 226.84
+    },
+    {
+        "date": "2024-08-29",
+        "title": "Spotify says Apple broke some of its volume controls on iOS",
+        "sentiment": 0.15,
+        "open": 230.1,
+        "high": 232.92,
+        "low": 228.88,
+        "close": 229.79
+    },
+    {
+        "date": "2024-08-05",
+        "title": "Elon Musk sues OpenAI, Sam Altman for making a \u201cfool\u201d out of him",
+        "sentiment": 0.0,
+        "open": 199.09,
+        "high": 213.5,
+        "low": 196.0,
+        "close": 209.27
+    },
+    {
+        "date": "2024-08-13",
+        "title": "Growing demand on the dark web for AI abuse images",
+        "sentiment": 0.0,
+        "open": 219.01,
+        "high": 221.89,
+        "low": 219.01,
+        "close": 221.27
+    },
+    {
+        "date": "2024-08-30",
+        "title": "Labor Day Sales: This Cordless Dyson Vacuum Leaves the Competition in the Dust",
+        "sentiment": -0.25416666666666665,
+        "open": 230.19,
+        "high": 230.4,
+        "low": 227.48,
+        "close": 229.0
+    },
+    {
+        "date": "2024-08-26",
+        "title": "Early Labor Day sales: score a lifetime Babbel subscription at an incredible 76% discount",
+        "sentiment": 0.4142857142857143,
+        "open": 226.76,
+        "high": 227.28,
+        "low": 223.8905,
+        "close": 227.18
+    }
+]
